@@ -1,2 +1,0 @@
-riscv-model==0.6.6
-bitstring~=4.0.1
